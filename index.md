@@ -43,6 +43,7 @@ _(none yet)_
 - [[map-effectiveness]] — Replaces pack size scaling on maps (0.4.0+)
 - [[tablet-crafting]] — Tablet modifier system; 4-mod cap, Arbiter-gated slots 3–4
 - [[boss-anti-burst]] — Damage reduction window on boss emerge/aggro (0.4.0+)
+- [[arbiter-of-ash]] — Pinnacle endgame boss; gates tablet crafting slots 3–4 (0.4.0)
 
 ## Sources
 
@@ -56,7 +57,6 @@ Entities and concepts mentioned in this wiki but not yet given their own page. P
 
 **Entities**
 
-- arbiter-of-ash — Pinnacle endgame boss; tablet crafting gate
 - druid — New class added in 0.4
 - oracle, shaman — Druid ascendancies
 - talisman — Two-handed shapeshifting weapon class

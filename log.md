@@ -145,3 +145,19 @@ No content changes; no contradictions surfaced.
 2. Ingest 0.4.0a–d hotfix consolidated notes before 0.5 drops.
 3. On 2026-05-29: ingest 0.5.0 patch notes and diff against [[endgame-0.4.0]].
 4. Source a non-Ranger build (Druid or Arcane Knight) to broaden coverage.
+
+## [2026-05-21] promote | Arbiter of Ash
+
+Promoted from stub to full page using facts already present in the wiki — no new raw source required.
+
+Created: `wiki/concepts/arbiter-of-ash.md` (type: concept; bosses do not yet have their own type in the schema)
+
+Updated:
+
+- `index.md` — added under Concepts, removed from Stubs/Entities
+
+Stitched from existing references in [[endgame-0.4.0]], [[tablet-crafting]], [[boss-anti-burst]], [[patch-0.4.0]]. Raw 0.4.0 patch notes scanned — no Arbiter facts beyond what was already captured in [[patch-0.4.0]].
+
+Open questions logged on the page: exact phase-transition life threshold, role in 0.5.0.
+
+Stub count: 17 → 16.

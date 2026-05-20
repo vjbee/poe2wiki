@@ -16,6 +16,7 @@ Created (newcomer-focused minimal scope, 6 pages):
 Updated: [[index.md]]
 
 Deferred (mentioned in build page only, not yet pages of their own):
+
 - Uniques: Maligaro's Virtuosity, Call of the Brotherhood, The Whispering Ice,
   Astramentis, Painter's Servant, Enfolding Dawn, Crown of the Victor, Grip of Kulemak,
   Guiding Palm of the Eye, Quipolatl's Thesis, Threaded Light
@@ -42,10 +43,12 @@ Created (newcomer-focused minimal scope, 7 pages):
 Updated: [[index.md]]
 
 Cross-references with prior ingest:
+
 - [[wiki/ascendancies/pathfinder]] is mentioned as an optional late-game respec target
 - Maligaro's Virtuosity appears in both builds (crit enabler) — still deferred as a page
 
 Deferred (mentioned in build page only):
+
 - Uniques: Serpent's Egg, Cadiro's Gambit, Headhunter, Rigwald's Ferocity, Hyrri's Ire,
   Prism of Belief, Maligaro's Virtuosity (carry-over from prior ingest), Subterfuge Mask
 - Skills: Snipe, Herald of Thunder, Wind Dancer, Tame Beast, Ghost Dance, Charge Regulation,
@@ -59,3 +62,34 @@ No contradictions between the two sources — they cover disjoint playstyles wit
 Cold Spark guide; the Spiral Volley guide adds context that Pathfinder works for bow
 builds too via the 0.4.0 Running Assault knockdown buff.
 
+## [2026-05-21] ingest | Patch 0.4.0 — The Last of the Druids
+
+Source: https://www.pathofexile.com/forum/view-thread/3883495 (saved to `raw/patches/patch-0.4.0.md`)
+Focus per user direction: endgame and meta — to establish a baseline diff target against 0.5.0.
+
+**Pages created:**
+
+- `wiki/sources/patch-0.4.0.md`
+- `wiki/meta/endgame-0.4.0.md`
+- `wiki/concepts/map-effectiveness.md`
+- `wiki/concepts/tablet-crafting.md`
+- `wiki/concepts/boss-anti-burst.md`
+
+**Pages updated:**
+
+- `index.md` (initial population)
+- `log.md` (initial population)
+
+**Notes:**
+
+- First ingest. No contradiction checks possible — establishes ground truth.
+- 17+ stub entities/concepts noted in index for future ingests (Druid, ascendancies, content layers, etc.).
+- Timing: 8 days before 0.5.0 release; patch notes for 0.5 drop today. The `endgame-0.4.0` page is the primary artifact, designed for diff against 0.5.0.
+- Out-of-scope sections from patch notes (Druid, gem/ascendancy/unique rebalances) left for follow-up ingests per user direction.
+- Hotfixes 0.4.0a–d to be ingested as a separate source file.
+
+**Suggested next ingests:**
+
+- 0.4.0a–d hotfix consolidated notes
+- 0.5.0 patch notes (when released today, May 21)
+- A maxroll.gg build guide for an Arcane Knight or Beastmaster build (to start filling skill / build pages)

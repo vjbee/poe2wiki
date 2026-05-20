@@ -10,11 +10,13 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 
 - [[cold-spark-pathfinder]] — Ranger-class caster using Spark + Cold-Infusion, swaps to CI in maps (0.4.0)
 - [[spiral-volley-deadeye]] — Ranger/Deadeye bow mapper; one-click 360° clear via Resonance charge loop (0.4.0)
+- [[entangle-oracle]] — Druid/Oracle plant caster; Entangle + Thunderstorm combo; endgame MoM + EB Life-cost engine (0.4.0)
 
 ## Ascendancies
 
 - [[pathfinder]] — Ranger ascendancy; mobility + mana efficiency; Path Seeker enables Sorceress tree
 - [[deadeye]] — Ranger ascendancy; projectile/bow scaling; Endless Munitions + Called Shots
+- [[oracle]] — Druid ascendancy; spell caster with tree-skip nodes (Unseen Path + Entwined Realities)
 
 ## Skills
 
@@ -24,6 +26,9 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[lightning-arrow]] — Bow attack; chains to 3 nearby enemies; triggers Lightning Rod pulses
 - [[lightning-rod]] — Bow skill; placed Rods pulse when Lightning Arrow chains to them (max 10)
 - [[spectral-fire]] — Spell with explosion sub-effect; uses player stats after 0.4.0d
+- [[entangle]] — Druid spell (level 1); auto-targets, spreads vines for detonation by Thunderstorm
+- [[thunderstorm]] — Druid spell (level 14); detonates Entangle vines via Accelerated Growth support
+- [[thrashing-vines]] — Druid single-target spell (level 31); Limit-capped, raised via Idol of Uldurn
 
 ## Supports
 
@@ -53,6 +58,7 @@ _(none yet)_
 
 - [[cold-spark-pathfinder-maxroll]] — Maxroll guide by Goratha (0.4.0), 2026-05-21
 - [[spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
+- [[entangle-oracle-maxroll]] — Maxroll guide by Velyna (0.4.0), 2026-05-21
 - [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
 - [[patch-0.4.0d]] — Patch 0.4.0d (Jan 14, 2026). League + QoL; Trial of Chaos boss tuning; slow cap formalised.
 
@@ -63,7 +69,7 @@ Entities and concepts mentioned in this wiki but not yet given their own page. P
 **Entities**
 
 - druid — New class added in 0.4
-- oracle, shaman — Druid ascendancies
+- shaman — Druid ascendancy (companion to [[oracle]])
 - talisman — Two-handed shapeshifting weapon class
 
 **Content layers**

@@ -192,3 +192,46 @@ WebFetch'd directly under the standing autonomy granted earlier today. Mid-cycle
 **Other hotfixes left for later**: 0.4.0a, 0.4.0b, 0.4.0c, 0.4.0e all exist on the forum. 0.4.0d was the most substantive of the 0.4 mid-cycle patches; the rest are iterative fixes. Ingest if/when relevant.
 
 Stub count: 16 → 15 (fate-of-the-vaal-league promoted).
+
+## [2026-05-21] ingest | Entangle Oracle Build Guide (Maxroll, Velyna)
+
+Source: https://maxroll.gg/poe2/build-guides/entangle-oracle-build-guide (saved to `raw/articles/Entangle Oracle Build Guide.md`)
+
+WebFetched under standing autonomy grant. First non-Ranger build in the wiki — closes the largest coverage gap flagged in today's health check.
+
+**Pages created (6):**
+
+- `wiki/sources/entangle-oracle-maxroll.md`
+- `wiki/builds/entangle-oracle.md`
+- `wiki/ascendancies/oracle.md` (promoted from stub)
+- `wiki/skills/entangle.md`
+- `wiki/skills/thunderstorm.md`
+- `wiki/skills/thrashing-vines.md`
+
+**Pages updated:**
+
+- `index.md` — added 6 new entries; merged Oracle stub note into the Shaman entry.
+
+**Cross-references with prior wiki:**
+
+- [[Spark]] is reused in the Entangle Oracle leveling phase (levels 1–14), bridging this build to the existing [[Cold Spark Pathfinder]] page.
+
+**Deferred (mentioned in build page only, not promoted):**
+
+- Uniques: Bushwhack, Idol of Uldurn, Atalui's Bloodletting, Atziri's Rule, Kurgal's Gaze, Undying Hate, Fast Metabolism.
+- Keystones: Wildsurge Incantation, Mind Over Matter, Eldritch Battery.
+- Notables: Boundless Growth, Constricting, Cut to the Bone, Scarred Faith, Blackflame Covenant, Blood Transfusion, Sanguimantic Rituals, Aspiring Genius, Calculated Hunter, Give Up Your Essence.
+- Supports: Accelerated Growth, Shock Conduction II, Overabundance I, Heft, Considered Casting, Clarity I, Vitality I.
+- Skills (early campaign only): Orb of Storms, Volcano, Arctic Armour, Mana Remnants, Temporal Chains.
+- Mechanics: Pin, Drench, Shock Conduction, Arcane Surge, Sacrifice of Blood, Lifetap (will need its own page when a second build uses it).
+
+**Open questions logged on pages:**
+
+- Whether Entangle / Thunderstorm / Thrashing Vines are officially tagged as **Primal Skills** (the patch notes mention 20+ new Primal Skills but the build guide does not explicitly tag these).
+- Other Oracle ascendancy nodes beyond the four covered.
+- Shaman ascendancy comparison.
+- 0.5.0 impact on the Atalui's Bloodletting + MoM/EB sustain chain.
+
+No contradictions with the two Ranger builds — disjoint class and ascendancy.
+
+Stub count: 15 → 14 (oracle promoted; Druid + Shaman stubs remain).

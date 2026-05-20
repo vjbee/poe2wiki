@@ -26,7 +26,7 @@ Per user direction, this ingest focuses on **endgame and meta-level changes** to
 - Three tablet modifiers disabled: **Plundering**, **of the Pursuit**, **of Envy**.
 - Two new tablet modifiers added: **Challenger's** (monster effectiveness) and **of Contest** (extra rare modifier on unique monsters).
 - "Of Undertaking" re-enabled — 1 to 2 additional random modifiers on the affected map.
-- Most existing tablet modifiers had their value ranges widened toward the high end (see [[meta/endgame-0.4.0]] for the diff table).
+- Most existing tablet modifiers had their value ranges widened toward the high end (see [[endgame-0.4.0]] for the diff table).
 - "Of Fleeting" map modifier restricted to T11+ waystones with reduced value (10–15%, previously 21–25%).
 - Bosses gained a [[boss-anti-burst]] mechanic. Damage reduction tapers from full to zero after emerge/aggro; boss movement away from spawn accelerates the falloff.
 - [[abyss]] is now a core mechanic with encounters in campaign (Act 2+) and endgame, including a dedicated section on the [[atlas-passive-tree]].
@@ -49,7 +49,7 @@ The following sections from the 0.4.0 patch notes were read but not filed in det
 
 ## Pages created
 
-- [[meta/endgame-0.4.0]] — full endgame state snapshot
-- [[concepts/map-effectiveness]]
-- [[concepts/tablet-crafting]]
-- [[concepts/boss-anti-burst]]
+- [[wiki/meta/endgame-0.4.0]] — full endgame state snapshot
+- [[wiki/concepts/map-effectiveness]]
+- [[wiki/concepts/tablet-crafting]]
+- [[wiki/concepts/boss-anti-burst]]

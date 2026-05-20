@@ -93,3 +93,21 @@ Focus per user direction: endgame and meta — to establish a baseline diff targ
 - 0.4.0a–d hotfix consolidated notes
 - 0.5.0 patch notes (when released today, May 21)
 - A maxroll.gg build guide for an Arcane Knight or Beastmaster build (to start filling skill / build pages)
+
+## [2026-05-21] lint | Schema consistency pass
+
+Findings + fixes:
+
+- **Misplaced files**: 3 pages with `type: concept` were under `wiki/builds/`. Moved via `git mv`:
+  - `wiki/builds/boss-anti-burst.md` → `wiki/concepts/boss-anti-burst.md`
+  - `wiki/builds/map-effectiveness.md` → `wiki/concepts/map-effectiveness.md`
+  - `wiki/builds/tablet-crafting.md` → `wiki/concepts/tablet-crafting.md`
+- **`index.md` cleanup**: removed duplicate Meta + Concepts sections; merged all 5 concept pages under a single Concepts section; unified wikilink style to basename-only (`[[map-effectiveness]]`) for catalog entries.
+- **Wikilink style** (decided convention):
+  - Catalog/content references → basename (`[[Spark]]`, `[[map-effectiveness]]`)
+  - Source page "Pages created/Updated" lists → full path (`[[wiki/concepts/X]]`) per CLAUDE.md template
+- **Link fixes applied**:
+  - `wiki/sources/patch-0.4.0.md` — `[[concepts/X]]` → `[[wiki/concepts/X]]` in "Pages created"
+  - `wiki/meta/endgame-0.4.0.md` — `[[sources/patch-0.4.0]]` → `[[patch-0.4.0]]`
+
+No content changes; no contradictions surfaced.

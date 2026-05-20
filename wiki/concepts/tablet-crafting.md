@@ -34,7 +34,7 @@ In 0.4.0, all modifiers from the generic "Precursor Tablet" can roll on any tabl
 | Boss-related | of Conquering, of Treasure, of Hoards, of Pathways |
 | Map structure | of Undertaking (extra random mods) |
 
-Most existing modifier ranges were widened in 0.4.0 — see the diff table in [[meta/endgame-0.4.0]].
+Most existing modifier ranges were widened in 0.4.0 — see the diff table in [[endgame-0.4.0]].
 
 ## Modifiers added in 0.4.0
 
@@ -59,4 +59,4 @@ Existing tablets with these modifiers still function but cannot be rolled fresh.
 
 - [[arbiter-of-ash]]
 - [[map-effectiveness]]
-- [[meta/endgame-0.4.0]]
+- [[endgame-0.4.0]]

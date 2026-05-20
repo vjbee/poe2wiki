@@ -43,5 +43,5 @@ Practical implications:
 ## See also
 
 - [[tablet-crafting]]
-- [[meta/endgame-0.4.0]]
-- [[sources/patch-0.4.0]]
+- [[endgame-0.4.0]]
+- [[patch-0.4.0]]

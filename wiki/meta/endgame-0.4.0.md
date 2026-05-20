@@ -62,7 +62,7 @@ Most existing tablet modifiers had their lower bound raised toward the high end.
 - of the Nemesis: 30–80% → 50–80% extra rare modifier chance
 - of Shrines / Strongboxes / Essences / Spirits: 50–100% → 70–100% chance
 
-See [[sources/patch-0.4.0]] for the full diff list.
+See [[patch-0.4.0]] for the full diff list.
 
 ## Waystone changes (0.4)
 

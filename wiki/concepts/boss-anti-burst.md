@@ -50,4 +50,4 @@ The patch notes describe the mechanic as applying broadly to bosses with emerge 
 ## See also
 
 - [[arbiter-of-ash]]
-- [[meta/endgame-0.4.0]]
+- [[endgame-0.4.0]]

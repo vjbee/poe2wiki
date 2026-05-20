@@ -4,31 +4,25 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 
 ## Meta
 
-- [[meta/endgame-0.4.0]] — Endgame state baseline at patch 0.4.0 (Dec 2025 – May 2026). Primary diff target against 0.5.
-
-## Concepts
-
-- [[concepts/map-effectiveness]] — Replaces pack size scaling on maps (0.4.0+).
-- [[concepts/tablet-crafting]] — Tablet modifier system; 4-mod cap, Arbiter-gated slots 3–4.
-- [[concepts/boss-anti-burst]] — Damage reduction window on boss emerge/aggro (0.4.0+).
+- [[endgame-0.4.0]] — Endgame state baseline at patch 0.4.0 (Dec 2025 – May 2026). Primary diff target against 0.5.
 
 ## Builds
 
-- [[wiki/builds/cold-spark-pathfinder]] — Ranger-class caster using Spark + Cold-Infusion, swaps to CI in maps (0.4.0)
-- [[wiki/builds/spiral-volley-deadeye]] — Ranger/Deadeye bow mapper; one-click 360° clear via Resonance charge loop (0.4.0)
+- [[cold-spark-pathfinder]] — Ranger-class caster using Spark + Cold-Infusion, swaps to CI in maps (0.4.0)
+- [[spiral-volley-deadeye]] — Ranger/Deadeye bow mapper; one-click 360° clear via Resonance charge loop (0.4.0)
 
 ## Ascendancies
 
-- [[wiki/ascendancies/pathfinder]] — Ranger ascendancy; mobility + mana efficiency; Path Seeker enables Sorceress tree
-- [[wiki/ascendancies/deadeye]] — Ranger ascendancy; projectile/bow scaling; Endless Munitions + Called Shots
+- [[pathfinder]] — Ranger ascendancy; mobility + mana efficiency; Path Seeker enables Sorceress tree
+- [[deadeye]] — Ranger ascendancy; projectile/bow scaling; Endless Munitions + Called Shots
 
 ## Skills
 
-- [[wiki/skills/spark]] — Projectile lightning spell, scales with +spell gem levels; converts to cold via gear
-- [[wiki/skills/frost-bomb]] — Delayed cold explosion; primary Cold-Infusion generator
-- [[wiki/skills/spiral-volley]] — Bow attack; 29 arrows, 360° arc, chains 6 times (level 54 unlock)
-- [[wiki/skills/lightning-arrow]] — Bow attack; chains to 3 nearby enemies; triggers Lightning Rod pulses
-- [[wiki/skills/lightning-rod]] — Bow skill; placed Rods pulse when Lightning Arrow chains to them (max 10)
+- [[spark]] — Projectile lightning spell, scales with +spell gem levels; converts to cold via gear
+- [[frost-bomb]] — Delayed cold explosion; primary Cold-Infusion generator
+- [[spiral-volley]] — Bow attack; 29 arrows, 360° arc, chains 6 times (level 54 unlock)
+- [[lightning-arrow]] — Bow attack; chains to 3 nearby enemies; triggers Lightning Rod pulses
+- [[lightning-rod]] — Bow skill; placed Rods pulse when Lightning Arrow chains to them (max 10)
 
 ## Supports
 
@@ -44,18 +38,17 @@ _(none yet)_
 
 ## Concepts
 
-- [[wiki/concepts/cold-infusion]] — Temporary buff to Spark; duration, projectile speed, cold damage; gen via Frost Bomb / Siphon Elements
-- [[wiki/concepts/resonance]] — Keystone converting Endurance → Frenzy charges; engine of Spiral Volley Deadeye
-
-## Meta
-
-_(none yet)_
+- [[cold-infusion]] — Temporary buff to Spark; duration, projectile speed, cold damage; gen via Frost Bomb / Siphon Elements
+- [[resonance]] — Keystone converting Endurance → Frenzy charges; engine of Spiral Volley Deadeye
+- [[map-effectiveness]] — Replaces pack size scaling on maps (0.4.0+)
+- [[tablet-crafting]] — Tablet modifier system; 4-mod cap, Arbiter-gated slots 3–4
+- [[boss-anti-burst]] — Damage reduction window on boss emerge/aggro (0.4.0+)
 
 ## Sources
 
-- [[wiki/sources/cold-spark-pathfinder-maxroll]] — Maxroll guide by Goratha (0.4.0), 2026-05-21
-- [[wiki/sources/spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
-- [[sources/patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
+- [[cold-spark-pathfinder-maxroll]] — Maxroll guide by Goratha (0.4.0), 2026-05-21
+- [[spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
+- [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
 
 ## Stubs
 

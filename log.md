@@ -111,3 +111,37 @@ Findings + fixes:
   - `wiki/meta/endgame-0.4.0.md` — `[[sources/patch-0.4.0]]` → `[[patch-0.4.0]]`
 
 No content changes; no contradictions surfaced.
+
+## [2026-05-21] lint | Health check
+
+**Patch staleness**: none — all 17 wiki pages tagged `patch: "0.4.0"`, matching current. 0.5.0 release on 2026-05-29 (8 days out) will flip every page into a diff candidate simultaneously.
+
+**Orphans**: none. Every wiki page has ≥2 inbound wikilinks across basename and Title-Case variants. [[endgame-0.4.0]] is the largest hub (7 inbound).
+
+**Promote candidates** (stub entities with high inbound count, no page yet):
+
+| Entity | inbound | rationale |
+| --- | --- | --- |
+| `arbiter-of-ash` | 8 | Gateway boss for tablet-crafting slots 3–4; referenced by every endgame page |
+| `liquid-emotions` | 4 | Delirium reward mechanic, replaces reward bar (0.4) |
+| `atlas-passive-tree` | 4 | New Abyss section in 0.4; nav hub |
+| `abyss` | 4 | Promoted to core in 0.4 |
+| `waystone` | 3 | Foundational mapping item |
+
+**Contradictions**: none detected. Only 3 ingested sources with disjoint scope.
+
+**Coverage gaps**:
+
+- No Druid / Beastmaster / Arcane Knight content (Ranger sub-classes only — 2 builds).
+- No video sources ingested.
+- 0.4.0a–d hotfixes still deferred from initial patch ingest.
+- 0.5.0 patch notes imminent (release 2026-05-29).
+
+**Wikilink style**: consistent after the schema lint pass earlier today.
+
+**Suggested next actions**:
+
+1. Promote [[arbiter-of-ash]] to a page (highest leverage — 8 inbound).
+2. Ingest 0.4.0a–d hotfix consolidated notes before 0.5 drops.
+3. On 2026-05-29: ingest 0.5.0 patch notes and diff against [[endgame-0.4.0]].
+4. Source a non-Ranger build (Druid or Arcane Knight) to broaden coverage.

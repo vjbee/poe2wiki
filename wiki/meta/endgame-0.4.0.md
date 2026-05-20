@@ -122,6 +122,19 @@ Effect on builds: instant-kill strategies on emerge are no longer viable. Sustai
 - Activating all checkpoints + completing the map now reveals all minimap icons.
 - Breach, Ritual, Delirium, Expedition removed from the Map Legend (no longer have icons shown on Atlas).
 
+## Patch evolution within 0.4
+
+### 0.4.0d (Jan 14, 2026)
+
+Mid-cycle league + QoL patch. No tablet, atlas, ascendancy, or skill-tree balance changes. Relevant additions:
+
+- [[slow-cap]] formalised — monsters cannot be slowed below 25% of base speed.
+- [[trial-of-chaos]] boss damage retuned (Bahlak ↓, Uxmal ↑, Vornas/Morvak ↓, Quadrilla ↑).
+- [[fate-of-the-vaal-league]] received Atziri Temple respawn, Holten variance fix, Atziri's Chambers connection fix, and several Temple UI / co-op fixes.
+- [[spectral-fire]] now uses player stats for area and damage; double-dip clarification on its keyword.
+
+See [[patch-0.4.0d]] for the full diff.
+
 ## Expected 0.5 impact
 
 [[patch-0.5.0]] "Return of the Ancients" has been announced as a full endgame overhaul. Based on GGG communications and trailers, likely changes include:

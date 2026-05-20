@@ -23,6 +23,7 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[spiral-volley]] — Bow attack; 29 arrows, 360° arc, chains 6 times (level 54 unlock)
 - [[lightning-arrow]] — Bow attack; chains to 3 nearby enemies; triggers Lightning Rod pulses
 - [[lightning-rod]] — Bow skill; placed Rods pulse when Lightning Arrow chains to them (max 10)
+- [[spectral-fire]] — Spell with explosion sub-effect; uses player stats after 0.4.0d
 
 ## Supports
 
@@ -44,12 +45,16 @@ _(none yet)_
 - [[tablet-crafting]] — Tablet modifier system; 4-mod cap, Arbiter-gated slots 3–4
 - [[boss-anti-burst]] — Damage reduction window on boss emerge/aggro (0.4.0+)
 - [[arbiter-of-ash]] — Pinnacle endgame boss; gates tablet crafting slots 3–4 (0.4.0)
+- [[slow-cap]] — Monsters cannot be slowed below 25% of base speed (0.4.0d)
+- [[trial-of-chaos]] — Endgame trial with rotating bosses; tuned in 0.4.0d
+- [[fate-of-the-vaal-league]] — Current league overlay; Atziri Temple, room placement, beacons (0.4.0)
 
 ## Sources
 
 - [[cold-spark-pathfinder-maxroll]] — Maxroll guide by Goratha (0.4.0), 2026-05-21
 - [[spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
 - [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
+- [[patch-0.4.0d]] — Patch 0.4.0d (Jan 14, 2026). League + QoL; Trial of Chaos boss tuning; slow cap formalised.
 
 ## Stubs
 
@@ -65,7 +70,6 @@ Entities and concepts mentioned in this wiki but not yet given their own page. P
 
 - abyss — Promoted to core mechanic in 0.4
 - breach, delirium, ritual, expedition — Existing Atlas layers
-- fate-of-the-vaal-league — Current league mechanic (Vaal Temple, Atziri)
 
 **Items / currency**
 

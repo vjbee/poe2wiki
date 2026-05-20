@@ -161,3 +161,34 @@ Stitched from existing references in [[endgame-0.4.0]], [[tablet-crafting]], [[b
 Open questions logged on the page: exact phase-transition life threshold, role in 0.5.0.
 
 Stub count: 17 → 16.
+
+## [2026-05-21] ingest | Patch 0.4.0d Patch Notes Preview
+
+Source: https://www.pathofexile.com/forum/view-thread/3905675 (saved to `raw/patches/patch-0.4.0d.md`)
+
+WebFetch'd directly under the standing autonomy granted earlier today. Mid-cycle league + QoL patch (Jan 14, 2026). No tablet, atlas, ascendancy, or skill-tree balance changes.
+
+**Pages created:**
+
+- `wiki/sources/patch-0.4.0d.md`
+- `wiki/concepts/slow-cap.md` — monsters cannot be slowed below 25% of base speed
+- `wiki/concepts/fate-of-the-vaal-league.md` — promoted from stub; Atziri Temple loop, Holten, beacons
+- `wiki/concepts/trial-of-chaos.md` — endgame trial with rotating bosses; 0.4.0d boss tuning logged
+- `wiki/skills/spectral-fire.md` — now uses player stats; explosion does not double-dip damage modifiers
+
+**Pages updated:**
+
+- `wiki/meta/endgame-0.4.0.md` — added "Patch evolution within 0.4" section pointing to 0.4.0d
+- `index.md` — added 4 new entries; removed `fate-of-the-vaal-league` from stubs; added 0.4.0d source
+
+**Deferred / skipped:**
+
+- Phantasmal Arrow targeting bug fix (no build using it yet).
+- Smith of Kitava's Temper Weapon + Talisman clarification (one-line edge case).
+- Character sheet armour/evasion/ES display, spirit reservation display, augment art (UX polish).
+- Specific Trial of Chaos bosses (Bahlak, Uxmal, Vornas, Morvak, Quadrilla) — referenced from the trial-of-chaos page but no individual pages.
+- Twenty-five bug fixes listed in the source.
+
+**Other hotfixes left for later**: 0.4.0a, 0.4.0b, 0.4.0c, 0.4.0e all exist on the forum. 0.4.0d was the most substantive of the 0.4 mid-cycle patches; the rest are iterative fixes. Ingest if/when relevant.
+
+Stub count: 16 → 15 (fate-of-the-vaal-league promoted).

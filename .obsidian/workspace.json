@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "22ab51a784e7031c",
+    "type": "split",
+    "children": [
+      {
+        "id": "13901fd701b4b66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d868d26e0599ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/patches/Early Access Patch Notes - Content Update 0.4.0 — Path of Exile 2 The Last of the Druids - Forum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Early Access Patch Notes - Content Update 0.4.0 — Path of Exile 2 The Last of the Druids - Forum"
+            }
+          },
+          {
+            "id": "85394933f68d1856",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a42bcecfdccf160",
+    "type": "split",
+    "children": [
+      {
+        "id": "477b9c39a1ef8a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ae27199d7bda5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8aaec8f6975aef69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e2defb4ff7f1d2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45027b8b097c9ef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b678f8454df553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c450a26beb092c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "66390951cca702d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e28dbc1e0a6fd6ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29c09d4278fd5f18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "63ef13ff7c24ce8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "85394933f68d1856",
+  "lastOpenFiles": [
+    "wiki/sources/patch-0.4.0.md",
+    "wiki/meta/endgame-0.4.0.md",
+    "wiki/builds/tablet-crafting.md",
+    "wiki/builds/map-effectiveness.md",
+    "wiki/builds/boss-anti-burst.md",
+    "raw/patches/Early Access Patch Notes - Content Update 0.4.0 — Path of Exile 2 The Last of the Druids - Forum.md",
+    "raw/articles/Spiral Volley Deadeye Build Guide.md",
+    "wiki/builds/spiral-volley-deadeye.md",
+    "wiki/ascendancies/deadeye.md",
+    "wiki/skills/lightning-rod.md",
+    "wiki/skills/lightning-arrow.md",
+    "wiki/skills/spiral-volley.md",
+    "wiki/concepts/resonance.md",
+    "wiki/sources/spiral-volley-deadeye-maxroll.md",
+    "index.md",
+    "log.md",
+    "wiki/builds/cold-spark-pathfinder.md",
+    "wiki/ascendancies/pathfinder.md",
+    "wiki/skills/spark.md",
+    "wiki/skills/frost-bomb.md",
+    "wiki/sources/cold-spark-pathfinder-maxroll.md",
+    "wiki/concepts/cold-infusion.md",
+    "raw/articles/Cold Spark Pathfinder Build Guide.md",
+    "CLAUDE.md",
+    "wiki/uniques",
+    "wiki/supports",
+    "wiki/sources",
+    "wiki/skills",
+    "wiki/passives",
+    "wiki/meta",
+    "wiki/concepts",
+    "wiki/builds",
+    "wiki/ascendancies",
+    "wiki",
+    "Welcome.md"
+  ]
+}

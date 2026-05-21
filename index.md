@@ -55,6 +55,9 @@ _(none yet)_
 - [[slow-cap]] — Monsters cannot be slowed below 25% of base speed (0.4.0d)
 - [[trial-of-chaos]] — Endgame trial with rotating bosses; tuned in 0.4.0d
 - [[fate-of-the-vaal-league]] — Current league overlay; Atziri Temple, room placement, beacons (0.4.0)
+- [[breach]] — Atlas layer + 0.5 quest line introducing Keepers of the Flame and Genesis tree (preview)
+- [[breach-domain]] — New endgame zone in 0.5: Hiveborn foothold with skyhives and breach lords Tool + Ash (preview)
+- [[genesis-tree]] — 15-point free-respec jewelry crafting tree introduced in 0.5 (preview)
 
 ## Sources
 
@@ -62,6 +65,7 @@ _(none yet)_
 - [[spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
 - [[entangle-oracle-maxroll]] — Maxroll guide by Velyna (0.4.0), 2026-05-21
 - [[ascendancy-changes-0.5-preview]] — Official GGG preview video for 0.5.0 ascendancy changes, 2026-05-21
+- [[breach-rework-0.5-preview]] — Official GGG preview video for 0.5.0 breach rework, 2026-05-21
 - [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
 - [[patch-0.4.0d]] — Patch 0.4.0d (Jan 14, 2026). League + QoL; Trial of Chaos boss tuning; slow cap formalised.
 
@@ -78,7 +82,7 @@ Entities and concepts mentioned in this wiki but not yet given their own page. P
 **Content layers**
 
 - abyss — Promoted to core mechanic in 0.4
-- breach, delirium, ritual, expedition — Existing Atlas layers
+- delirium, ritual, expedition — Existing Atlas layers
 
 **Items / currency**
 

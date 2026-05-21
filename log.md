@@ -266,3 +266,39 @@ First **0.5.0** content in the wiki. Patch launches May 29, 2026 (8 days from to
 - Other ascendancies: Witchhunter (Mercenary), Stormweaver (Sorceress) — not covered by this video.
 
 **Note on tagging:** pages use `patch: "0.5.0"` since the changes ship with that patch. Currently the live patch is 0.4. Re-tag or split if any of these change between preview and live release.
+
+## [2026-05-21] ingest | Path of Exile 2: Breach Rework Recap (GGG, 0.5 preview)
+
+Source: official GGG YouTube preview (transcript via `youtubetotranscript.com`, archived at `raw/videos/Transcript of Path of Exile 2 Breach Rework Recap.md`)
+
+Major 0.5.0 content drop — full rewrite of the breach mechanic into a multi-stage quest line + a permanent endgame crafting ecosystem.
+
+**Pages created (4):**
+
+- `wiki/sources/breach-rework-0.5-preview.md`
+- `wiki/concepts/breach.md` (promoted from stub; now major endgame page)
+- `wiki/concepts/genesis-tree.md` (new crafting system; 15 points, free respec)
+- `wiki/concepts/breach-domain.md` (new endgame zone type)
+
+**Pages updated:**
+
+- `wiki/meta/endgame-0.4.0.md` — added the breach rework section under "Confirmed by GGG previews"
+- `index.md` — added 3 concept entries + new source; removed `breach` from stub list
+
+**Worth flagging for the full 0.5 ingest:**
+
+- Genesis tree adds **caster mod and minion mod pools to rings** — likely retroactively reshapes itemisation across most casters and minion builds in the wiki. The Entangle Oracle ring section in particular will need a revisit.
+- New **exclusive amulet base types** (free spirit skill or rune socket) may rewrite the unique-item meta — could obsolete several deferred uniques from prior ingests (e.g. Idol of Uldurn).
+- The Breach Atlas tree includes a deliberate **easter-egg mechanic** (Zesh head → grass-wing orchid → rings on its fingers) that GGG explicitly left for player discovery. Worth tracking as more 0.5 sources come in.
+- 0.4 Breach Atlas notables (e.g. **Xesht's Madness**) — fate uncertain after the rework. Diff once 0.5 patch notes land.
+
+**Deferred (named in video, no page yet):**
+
+- NPCs: Alith, the Dreamer, Marshall of Zest, Tool, Ash, Zest (pinnacle), Zesh.
+- Factions: Keepers of the Flame, Hiveborn.
+- Items: womb gifts, hive blood, breach stones, grass-wing orchid.
+- Sub-zones: breach hives (outskirts), skyhives (inner).
+
+All referenced inline from the four created pages. Promote when a second source touches them or a query needs them.
+
+Stub count: 14 → 13 (breach promoted).

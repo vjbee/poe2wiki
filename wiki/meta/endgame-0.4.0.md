@@ -159,4 +159,12 @@ From [[ascendancy-changes-0.5-preview]]:
   - **Time Snap** and **Time Freeze** can both be allocated without all 8 ascendancy points.
   - **Now and Again** reworked — spell casts can independently roll echo AND repeat.
 
+From [[breach-rework-0.5-preview]]:
+
+- **[[breach]] rework** — a full quest line introducing the Keepers of the Flame, Alith, and the [[genesis-tree]]; a stabilisation phase that spawns Hiveborn miscreations dropping hive blood; Marshall of Zest spawns drop womb gifts.
+- New endgame zone type: [[breach-domain]] — Hiveborn footholds with breach hives and skyhives, containing new breach lords **Tool** and **Ash**.
+- New crafting system: [[genesis-tree]] — 15-point free-respec tree that birthens jewelry, adds caster mod and minion mod pools to rings, new amulet base types (spirit-skill / rune-socket), and side trees for belts and currency.
+- Existing pinnacle [[zest]] now accessed via the monastery (Dreamer), gated behind breach domain completion.
+- Breach Atlas tree gains nodes: spawn hives outside domains, Alith ability augments, lineage supports on Marshall of Zest, womb gift control, and a Zesh-head → grass-wing orchid side mechanic with deliberately undocumented effects.
+
 The 0.4 state above should be treated as ephemeral. After 0.5 is ingested in full, every section here should be revisited point-by-point.

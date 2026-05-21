@@ -137,11 +137,26 @@ See [[patch-0.4.0d]] for the full diff.
 
 ## Expected 0.5 impact
 
-[[patch-0.5.0]] "Return of the Ancients" has been announced as a full endgame overhaul. Based on GGG communications and trailers, likely changes include:
+[[patch-0.5.0]] "Return of the Ancients" launches **May 29, 2026** and has been announced as a full endgame overhaul. Likely or expected:
+
 - Mapping system restructure (death penalty changes, reward loop changes).
 - Atlas Tree adjustments (potentially major).
 - New endgame quest content and Atlas Fortress zone.
 - Runes of Aldur league mechanic layered on top.
 - Two new Ascendancies.
 
-The 0.4 state above should be treated as ephemeral. After 0.5 is ingested, every section here should be revisited point-by-point.
+### Confirmed by GGG previews
+
+From [[ascendancy-changes-0.5-preview]]:
+
+- **[[gemling-legionnaire]]** (Mercenary ascendancy):
+  - New ascendancy skill **Advanced Thaumaturgy** — every socketable gem gains an additional quality bonus (Alt-hover to preview). Examples: Fireball 2 → up to 10 projectiles in a circle; Explosive Shot +2 rounds in magazine.
+  - New defensive skill **Virtuous Barrier** — barrier from socketed gems, scales with their required attributes.
+- **[[chronomancer]]** (Sorceress ascendancy):
+  - New notable **Phased Form** — delayed damage on hits, ignores DoT entirely. Pairs with **Temporal Rift** to erase the delayed damage pool.
+  - **Inevitable Agony** reworked — stored damage shown on boss life bars; triggers immediately when stored damage reaches lethal levels.
+  - **Rapid River** removed; Recoup-speed investment distributed across the core passive tree (Recoup no longer Chronomancer-locked).
+  - **Time Snap** and **Time Freeze** can both be allocated without all 8 ascendancy points.
+  - **Now and Again** reworked — spell casts can independently roll echo AND repeat.
+
+The 0.4 state above should be treated as ephemeral. After 0.5 is ingested in full, every section here should be revisited point-by-point.

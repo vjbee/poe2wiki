@@ -235,3 +235,34 @@ WebFetched under standing autonomy grant. First non-Ranger build in the wiki —
 No contradictions with the two Ranger builds — disjoint class and ascendancy.
 
 Stub count: 15 → 14 (oracle promoted; Druid + Shaman stubs remain).
+
+## [2026-05-21] ingest | You NEED To See These Ascendancy Changes (GGG, 0.5 preview)
+
+Source: official GGG YouTube preview (transcript retrieved via `youtubetotranscript.com`, archived at `raw/videos/Transcript of You NEED To See These Ascendancy Changes.md`)
+
+First **0.5.0** content in the wiki. Patch launches May 29, 2026 (8 days from today). Video covers two ascendancies in detail.
+
+**Pages created (3):**
+
+- `wiki/sources/ascendancy-changes-0.5-preview.md`
+- `wiki/ascendancies/gemling-legionnaire.md` (Mercenary; tagged `patch: "0.5.0"` preview)
+- `wiki/ascendancies/chronomancer.md` (Sorceress; tagged `patch: "0.5.0"` preview)
+
+**Pages updated:**
+
+- `wiki/meta/endgame-0.4.0.md` — promoted "Expected 0.5 impact" section to include confirmed ascendancy details from this preview.
+- `index.md` — added 2 ascendancy entries + new source.
+
+**Highlights worth flagging for the eventual full 0.5 ingest:**
+
+- Gemling Legionnaire **Advanced Thaumaturgy** affects "over 200 different skill gems" — implies a wiki-wide rewrite of skill pages once the full 0.5 patch notes are out, since most skills will have a meaningful Gemling-quality bonus to document.
+- Chronomancer **Rapid River removal + Recoup redistribution** is a tree-level change — affects builds beyond Chronomancer, since Recoup is now reachable from the core tree.
+- Chronomancer **Phased Form + Temporal Rift** combo looks build-defining and warrants its own concept page once a Chronomancer build guide ingests.
+
+**Deferred (named in video, no page yet):**
+
+- Skills/passives: Advanced Thaumaturgy, Virtuous Barrier, Phased Form, Temporal Rift, Inevitable Agony, Time Snap, Time Freeze, Now and Again, Rapid River. Fireball, Explosive Shot, Fire Infusion (mentioned as examples of Advanced Thaumaturgy bonuses but not characterised).
+- Classes: Mercenary, Sorceress (parent classes of the two ascendancies; not yet in wiki).
+- Other ascendancies: Witchhunter (Mercenary), Stormweaver (Sorceress) — not covered by this video.
+
+**Note on tagging:** pages use `patch: "0.5.0"` since the changes ship with that patch. Currently the live patch is 0.4. Re-tag or split if any of these change between preview and live release.

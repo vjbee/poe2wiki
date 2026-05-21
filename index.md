@@ -17,6 +17,8 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[pathfinder]] — Ranger ascendancy; mobility + mana efficiency; Path Seeker enables Sorceress tree
 - [[deadeye]] — Ranger ascendancy; projectile/bow scaling; Endless Munitions + Called Shots
 - [[oracle]] — Druid ascendancy; spell caster with tree-skip nodes (Unseen Path + Entwined Realities)
+- [[gemling-legionnaire]] — Mercenary ascendancy; gem-quality specialist; 0.5.0 gains Advanced Thaumaturgy + Virtuous Barrier (preview)
+- [[chronomancer]] — Sorceress ascendancy; time-manipulation; 0.5.0 gains Phased Form, removes Rapid River (preview)
 
 ## Skills
 
@@ -59,6 +61,7 @@ _(none yet)_
 - [[cold-spark-pathfinder-maxroll]] — Maxroll guide by Goratha (0.4.0), 2026-05-21
 - [[spiral-volley-deadeye-maxroll]] — Maxroll guide by Cptn_Garbage (0.4.0), 2026-05-21
 - [[entangle-oracle-maxroll]] — Maxroll guide by Velyna (0.4.0), 2026-05-21
+- [[ascendancy-changes-0.5-preview]] — Official GGG preview video for 0.5.0 ascendancy changes, 2026-05-21
 - [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
 - [[patch-0.4.0d]] — Patch 0.4.0d (Jan 14, 2026). League + QoL; Trial of Chaos boss tuning; slow cap formalised.
 

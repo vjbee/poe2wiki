@@ -35,6 +35,7 @@ This appears targeted at builds that could one-shot bosses on emerge — typical
 - Open with mobility / setup rather than full commitment. Apply curses, debuffs, and ailments early.
 - Force the boss to move if possible — the falloff accelerates with displacement.
 - Pinnacle bosses with slow openings are now more punishing to "stand and unload" against.
+- **Documented timing**: the [[Run n Gun Witchhunter]] build pre-stacks 4–5 Stormblast Bolts on the boss, then explicitly waits **~3 seconds** before dodge-detonating. The wait targets the anti-burst window — letting it taper before unloading prevents the initial reduction from wasting the stacked damage. This is the first documented build that deliberately times the rotation around this mechanic.
 
 ## Known affected bosses
 

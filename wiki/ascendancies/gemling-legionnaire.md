@@ -43,6 +43,7 @@ Not characterised in this source. Pre-0.5 Gemling Legionnaire information would 
 
 ## See also
 
+- [[witchhunter]] — companion Mercenary ascendancy
 - [[patch-0.5.0]]
 - [[chronomancer]]
 - [[ascendancy-changes-0.5-preview]]

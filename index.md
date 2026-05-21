@@ -11,6 +11,7 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[cold-spark-pathfinder]] — Ranger-class caster using Spark + Cold-Infusion, swaps to CI in maps (0.4.0)
 - [[spiral-volley-deadeye]] — Ranger/Deadeye bow mapper; one-click 360° clear via Resonance charge loop (0.4.0)
 - [[entangle-oracle]] — Druid/Oracle plant caster; Entangle + Thunderstorm combo; endgame MoM + EB Life-cost engine (0.4.0)
+- [[run-n-gun-witchhunter]] — Mercenary/Witchhunter crossbow; Stormblast Bolts auto-proc via Mirage Archer; evasion + Sorcery Ward tank (0.4.0)
 
 ## Ascendancies
 
@@ -19,6 +20,7 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[oracle]] — Druid ascendancy; spell caster with tree-skip nodes (Unseen Path + Entwined Realities)
 - [[gemling-legionnaire]] — Mercenary ascendancy; gem-quality specialist; 0.5.0 gains Advanced Thaumaturgy + Virtuous Barrier (preview)
 - [[chronomancer]] — Sorceress ascendancy; time-manipulation; 0.5.0 gains Phased Form, removes Rapid River (preview)
+- [[witchhunter]] — Mercenary ascendancy; crossbow + evasion stacking; Sorcery Ward + Ceremonial Ablution turn 30% Evasion into HP
 
 ## Skills
 
@@ -31,6 +33,9 @@ Catalog of all wiki pages. Organized by type. See [[CLAUDE.md]] for schema.
 - [[entangle]] — Druid spell (level 1); auto-targets, spreads vines for detonation by Thunderstorm
 - [[thunderstorm]] — Druid spell (level 14); detonates Entangle vines via Accelerated Growth support
 - [[thrashing-vines]] — Druid single-target spell (level 31); Limit-capped, raised via Idol of Uldurn
+- [[stormblast-bolts]] — Crossbow attack; pre-stack and detonate for single target
+- [[galvanic-shards]] — Crossbow attack; primary clear skill, pairs with Herald of Thunder
+- [[mirage-archer]] — Spirit-reserved automation; auto-fires linked attack (e.g. Explosive Shot) on dodge
 
 ## Supports
 
@@ -66,6 +71,7 @@ _(none yet)_
 - [[entangle-oracle-maxroll]] — Maxroll guide by Velyna (0.4.0), 2026-05-21
 - [[ascendancy-changes-0.5-preview]] — Official GGG preview video for 0.5.0 ascendancy changes, 2026-05-21
 - [[breach-rework-0.5-preview]] — Official GGG preview video for 0.5.0 breach rework, 2026-05-21
+- [[woolie-witchhunter-mobalytics]] — Mobalytics guide by Woolie (0.4.0 verified, 0.5 forward-looking), 2026-05-21
 - [[patch-0.4.0]] — Patch 0.4.0 "The Last of the Druids" (Dec 12, 2025). Endgame focus.
 - [[patch-0.4.0d]] — Patch 0.4.0d (Jan 14, 2026). League + QoL; Trial of Chaos boss tuning; slow cap formalised.
 

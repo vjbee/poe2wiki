@@ -302,3 +302,47 @@ Major 0.5.0 content drop — full rewrite of the breach mechanic into a multi-st
 All referenced inline from the four created pages. Promote when a second source touches them or a query needs them.
 
 Stub count: 14 → 13 (breach promoted).
+
+## [2026-05-21] ingest | Run n Gun Witchhunter (Mobalytics, Woolie)
+
+Source: `raw/articles/0.5 Woolie's Run n Gun Witchhunter - PoE 2 Mercenary Build Guide.md` (https://mobalytics.gg/poe-2/builds/woolie-run-n-gun-witch-hunter)
+
+First Mercenary build in the wiki. Guide is 0.4 TLotD verified with forward-looking 0.5 notes from the author.
+
+**Pages created (6):**
+
+- `wiki/sources/woolie-witchhunter-mobalytics.md`
+- `wiki/builds/run-n-gun-witchhunter.md`
+- `wiki/ascendancies/witchhunter.md` (Mercenary ascendancy; companion to [[gemling-legionnaire]])
+- `wiki/skills/stormblast-bolts.md`
+- `wiki/skills/galvanic-shards.md`
+- `wiki/skills/mirage-archer.md`
+
+**Pages updated:**
+
+- `wiki/ascendancies/gemling-legionnaire.md` — added Witchhunter cross-reference
+- `wiki/concepts/boss-anti-burst.md` — added the Run n Gun "wait ~3 seconds" tactic as the first documented build that explicitly times around the mechanic
+- `index.md` — added 6 entries (build, ascendancy, 3 skills, 1 source)
+
+**Cross-references with prior wiki:**
+
+- [[boss-anti-burst]]: build's explicit "wait ~3s" tactic confirms the mechanic applies to the bosses this build kills, and is now the first documented timing instance.
+- [[gemling-legionnaire]]: paired Mercenary ascendancy from the [[ascendancy-changes-0.5-preview]] ingest.
+- The build name [[Run n Gun Witchhunter]] gives the [[witchhunter]] ascendancy its first concrete usage in the wiki.
+
+**Deferred (mentioned in build page only):**
+
+- Uniques: Rampart Raptor, Blackheart (rings), Skin of the Loyal, Rondel of Fragility, Meginord's Girdle, Northpaw, Hyrri's Ire.
+- Skills: Plasma Blast, Shockburst Rounds (deprecated variant), Permafrost Bolts, Fragmentation Rounds, Mortar Cannon, Explosive Shot, Explosive Grenade, Attrition, Herald of Thunder, Herald of Ice, Crossbow Shot, Sorcery Ward.
+- Supports: Elemental Armament II, Double Barrel II, Fork, Innervate, Projectile Acceleration III, Rapid Attacks II/I, Concentrated Area, Close Combat II, Lightning Attunement, Longshot II, Elemental Focus, Cooldown Recovery II, Short Fuse II, Urgent Totems III, Reinforced Totems II, Cold Mastery, Gambleshot, Ice Bite II, Cold Attunement, Execute II, Magnified Area II, Lineage gems (general).
+- Notables: Sorcery Ward (passive), Unbound Forces, Acceleration (anointments).
+- Ascendancy nodes: Zealous Inquisition, Obsessive Rituals, Ceremonial Ablution (referenced inline from [[witchhunter]] page).
+- Runes: Lesser Glacial Rune, Glacial Rune.
+
+**Theorycraft flags for 0.5:**
+
+- Whether [[gemling-legionnaire]]'s Advanced Thaumaturgy adds a quality bonus to [[Mirage Archer]] — could enable a Gemling Witchhunter-style hybrid.
+- Whether [[Stormblast Bolts]] receives the predicted numeric nerf in 0.5 (author speculation).
+- Whether 0.5 reworks the Witchhunter ascendancy itself parallel to Gemling Legionnaire's two new ascendancy skills.
+
+No contradictions with prior builds. Coverage now spans three classes: Ranger (Pathfinder + Deadeye), Druid (Oracle), Mercenary (Witchhunter).
